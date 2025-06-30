@@ -24,6 +24,7 @@ A machine learning project that predicts household energy consumption using adva
 18. [Dependencies](#dependencies)
 19. [Contributing](#contributing)
 20. [License](#license)
+21. [Author](#author).
 
 ## Project Overview
 
@@ -266,6 +267,10 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 👥 Author
+
+- **BALAJI K** - (https://github.com/Balaji-itz-me)
 
 **Project Status**: ✅ Complete | **Last Updated**: [30/06/2025] | **Version**: 1.0.0# 🔋 Household Energy Usage Forecast
 
