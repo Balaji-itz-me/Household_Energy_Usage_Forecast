@@ -114,26 +114,26 @@ The Gradient Boosting model achieved outstanding performance with:
 
 ### Model Performance Visualizations
 
-![Actual vs Predicted Plot](path/to/actual_vs_predicted.png)
+![Actual vs Predicted Plot](visualization/actual_vs_predicted_plot.png)
 *Comparison of actual vs predicted power consumption values showing model accuracy*
 
-![Residual Analysis Plot](path/to/residual_plot.png)
+![Residual Analysis Plot](visualization/residual_distribution.png)
 *Residual distribution analysis confirming model assumptions and performance*
 
 ### Feature Analysis Visualizations
 
-![Feature Importance Plot](path/to/feature_importance.png)
+![Feature Importance Plot](visualization/Top_features.png)
 *Ranking of features by their importance in predicting power consumption*
 
-![Energy Consumption Trends](path/to/consumption_trends.png)
+![Energy Consumption Trends](visualization/Avg_usage_by_hour.png)
 *Temporal patterns and trends in household energy usage*
 
 ### Data Distribution Visualizations
 
-![Data Distribution Plot](path/to/data_distribution.png)
+![Log Transformed global power](visualization/log_transformed_global_power.png)
 *Distribution of power consumption values and key features*
 
-![Correlation Heatmap](path/to/correlation_heatmap.png)
+![Correlation Heatmap](visualization/correlation_matrix.png)
 *Correlation matrix showing relationships between different variables*
 
 ## Key Insights
