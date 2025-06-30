@@ -262,6 +262,12 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+ 📞 Support
+
+For support and questions:
+- Email: balajikamaraj99@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/balaji-k-626613157/)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
