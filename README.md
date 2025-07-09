@@ -212,31 +212,28 @@ print(f"R² Score: {r2:.4f}")
 ```
 household-power-consumption-prediction/
 ├── data/
-│   ├── raw/                    # Original dataset
-│   ├── processed/              # Cleaned and preprocessed data
-│   └── external/               # Additional data sources
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_preprocessing.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_model_training.ipynb
-│   └── 05_evaluation.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   ├── evaluation.py
-│   └── visualization.py
+│   ├── individual+household+electric+power+consumption.zip/           # Original dataset
+│   ├── df_no_outliers.parquet/              # Cleaned and preprocessed data
+│   └
 ├── models/
-│   ├── gradient_boosting_model.pkl
-│   └── model_comparison_results.json
-├── visualizations/
-│   ├── actual_vs_predicted.png
+│   ├── best_gradient_boosting_model.pkl
+│   ├── gb_model.pkl
+│   ├── linear_model.pkl
+│   ├── mlp_model.pkl
+│   └── random_forest_model.pkl
+├── visualization/
+│   ├── actual_vs_predicted_plot.png
+│   ├── correlation_matrix.png
 │   ├── feature_importance.png
-│   ├── residual_plot.png
-│   └── consumption_trends.png
+│   ├── residual_distribution.png
+│   └── log_transformed_global_power.png
+├── Final_Report.pptx
+│   
+├── Household_energy.ipynb
+├── MIT License
+│   
 ├── requirements.txt
-├── main.py
+│ 
 └── README.md
 ```
 
